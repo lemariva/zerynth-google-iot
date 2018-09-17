@@ -1,0 +1,6 @@
+{
+    "project_id":"core-iot-sensors",
+    "cloud_region":"europe-west1",
+    "registry_id":"esp32-iot-sensors",
+    "device_id":"esp32-devkit1"
+}
